@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAT_MSDOS_CLIENTE", "CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE.csproj", "{B160070B-7544-4E23-B44B-8DED4215C7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B160070B-7544-4E23-B44B-8DED4215C7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B160070B-7544-4E23-B44B-8DED4215C7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B160070B-7544-4E23-B44B-8DED4215C7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B160070B-7544-4E23-B44B-8DED4215C7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017C536C-1779-4B2D-9C7E-FF5BC5209144}
+	EndGlobalSection
+EndGlobal
