@@ -41,7 +41,7 @@ namespace CHAT_MSDOS_client
                 /* Here is delcared an array wich is going to
                  * contain the message.
                  */
-                byte[] send = new byte[100];
+                byte[] send = new byte[0];
 
                 /* In this loop we ask for the message and save it in the array
                  * to send it.
@@ -50,6 +50,12 @@ namespace CHAT_MSDOS_client
                 {
                     Console.Write("To send: ");
                     data = Console.ReadLine();
+
+                    /* Here we resize the byte which is going to contain the info
+                     * to the sam size as the string.
+                     */
+                    Array.Resize(ref send, data.Length);
+
                     /* Here we convert the string in bytes using the 
                      * GetBytes method.
                      */
