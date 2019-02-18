@@ -19,3 +19,10 @@ E:\Achivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug
 E:\Achivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.csproj.CoreCompileInputs.cache
 E:\Achivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.exe
 E:\Achivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.pdb
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\bin\Debug\CHAT_MSDOS_CLIENTE.exe.config
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\bin\Debug\CHAT_MSDOS_CLIENTE.exe
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\bin\Debug\CHAT_MSDOS_CLIENTE.pdb
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.csprojAssemblyReference.cache
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.exe
+C:\Users\sequoc\Desktop\Archivos\sourcetree\CHAT-MSDOS\CHAT_MSDOS_CLIENTE\CHAT_MSDOS_CLIENTE\obj\Debug\CHAT_MSDOS_CLIENTE.pdb

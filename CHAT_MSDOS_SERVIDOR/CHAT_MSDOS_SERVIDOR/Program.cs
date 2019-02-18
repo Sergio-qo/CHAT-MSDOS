@@ -44,7 +44,11 @@ namespace CHAT_MSDOS_SERVIDOR
                  */
                 int array_size;
 
-                //In this byte array we save the message bytes.
+                /* In this byte array we save the message bytes.
+                 * Each 255 bytes is the same to a line of four characters.
+                 * As bigger is the number there are more characters for
+                 * line and if thre isn't enough space it split the line.
+                 */
                 byte[] receive_info = new byte[255];
 
                 do
@@ -54,9 +58,6 @@ namespace CHAT_MSDOS_SERVIDOR
                     
                     //Here we resize the array of the server
                     Array.Resize(ref receive_info, array_size);
-
-                    //Here we recibe the bytes and save it in the receive_info array.
-                    client.Receive(receive_info);
 
                     //Here we convert the bytes of the array in an string
                     data = Encoding.Default.GetString(receive_info);
